@@ -1,12 +1,12 @@
-For Sublime-Text-2: \n
+For Sublime-Text-2:
 
-sudo add-apt-repository ppa:webupd8team/sublime-text-2 \n
-sudo apt-get update \n
-sudo apt-get install sublime-text \n
+sudo add-apt-repository ppa:webupd8team/sublime-text-2 <br />
+sudo apt-get update <br />
+sudo apt-get install sublime-text <br />
 
-For Sublime-Text-3: \n
+For Sublime-Text-3:
 
-sudo add-apt-repository ppa:webupd8team/sublime-text-3 \n
-sudo apt-get update \n
-sudo apt-get install sublime-text-installer \n
+sudo add-apt-repository ppa:webupd8team/sublime-text-3 <br />
+sudo apt-get update <br />
+sudo apt-get install sublime-text-installer <br />
 
