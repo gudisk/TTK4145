@@ -5,5 +5,5 @@ test = test_lib.test
 
 def main():
 	print test()
-
+	print 'offensive'
 main()
